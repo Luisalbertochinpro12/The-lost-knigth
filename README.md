@@ -20,4 +20,7 @@ The game features a selected variety of enemies and weapons; the gameplay is bas
 
 
 ## Credits
-Thanks to [@SebastianMayG](https://github.com/SebastianMayG) and [@SantiagoGMG](https://github.com/SantiagoGMG) for working on the assets and the "final boss", and [@Luisalbertochinpro12](https://github.com/Luisalbertochinpro12) for designing the title screen.
+Thanks to: 
+[@SebastianMayG](https://github.com/SebastianMayG).
+[@SantiagoGMG](https://github.com/SantiagoGMG).
+[@AlexsPrz](https://github.com/AleksPrz).
